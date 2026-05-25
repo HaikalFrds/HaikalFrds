@@ -1,7 +1,5 @@
 # <summary><strong>Hi there :wave: , I'm Haikal!</strong></summary>
 Lifelong Learner, currently studying Data Scientist and Analytics .
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
