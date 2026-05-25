@@ -18,7 +18,7 @@ Lifelong Learner, currently studying Data Scientist and Analytics .
 <a href="https://www.instagram.com/__haikalfrds/">
   <img align="left" alt="Haikal's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://www.instagram.com/__haikalfrds/">
+<a href="https://www.linkedin.com/in/haikal-firdaus/">
   <img align="left" alt="Haikal's Linkedin" width="20px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
 </a>
 
